@@ -1,0 +1,12 @@
+INSERT INTO Country
+VALUES
+(1,'SWEDEN','SWD'),
+(2,'NETHERLANDS','NED'),
+(3,'PAKISTAN','PK'),
+(4,'UNITED STATES','US'),
+(5,'IRELAND','IL'),
+(6,'NEW ZEALAND','NZ'),
+(7,'KOREA','KR'),
+(8,'DENMARK','DN'),
+(9,'TAIWAN','TAI'),
+(10,'CHINA','CH');
